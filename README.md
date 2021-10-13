@@ -116,7 +116,7 @@
 ## Ülkelerin Çağrı işaretleri
 - **DL (Deutschland)** : Almanya 
 ## Türkiye Çağrı İşareti Bölgeleri
-![Türkiye Bölgeleri](TR-regions.jpeg)
+![Türkiye Bölgeleri](img/TR-regions.jpeg)
 - TA2EX/3 : 2. bölgeden 3. bölgeye geçen bir amatör telsizci
 
 ---
@@ -157,7 +157,7 @@ Q Kodları hem soru hem cevap olarak kullanabilir.
 ---
 
 ## Uluslararası Fonetik Alfabe
-![Fonetik Alfabe](Phonetique-Alphabet.jpg)
+![Fonetik Alfabe](img/Phonetique-Alphabet.jpg)
 
 ---
 
