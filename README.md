@@ -2,7 +2,7 @@
 ## Başlıksız 
 - **ECC (Electronic Communication Community)** : Elektriksel Haberleşme Komitesi
 - **Harec Belgesi** : A sınıfı Belge
-- **IARU (International Amateur Radio Unity) **: Uluslararası Amatör Telsizciler Birliği
+- **IARU (International Amateur Radio Unity)**: Uluslararası Amatör Telsizciler Birliği
 - Frekans tahsisine ihtiyaç duyulmayan, özel amaçlar için tahsis edilmiş frekans bandlarında ve çıkış gücünde çalışan, diğer sistemlerde elektromanyetik girişime sebep olmadan ve elektromanyetik girişime açık olarak kullanılan kurumca belirlenen teknik düzenlemelere uygun telsiz cihaz ve sistemlerinin herhangi bir telsiz kurma ve kullanma iznine ve telsiz ruhsatnamesine ihtiyaç göstermeksizin kurulması ve kullanılması ile ilgili usus ve esasları belirleyen yönetmelik **Özel Telsiz Sistemleri Yönetmeliği**'dir.
 - Özel Telsiz Sistemleri yönetmeliğinin yayınlanması ile **Amatör Telsiz Yönetmeliği** yürürlülükten kaldırılmıştır.
 - Aralarında fiziki bağlantı olmaksızın, elektromanyetik dalgalar yoluyla, açık, kodlu veya kriptolu ses ve veri almaya, vermeye veya yalnızca almaya ya da vermeye yarayan sistemlere **Telsiz Sistem** denir.
