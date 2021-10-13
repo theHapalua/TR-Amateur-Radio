@@ -95,7 +95,7 @@
 ---  
 
 # İşletme
-## Untitled
+## Başlıksız
 - Amatör Telsizcilerin belirli zamanlarda yaptıkları yarışmaların **(CONTEST)** amacı en kısa zamanda mümkün olduğunca çok QSO yapmak.
 - Repeater / Röle istasyonları direkt haberleşme yapan istasyonların haberleşmesi için yapılır.
 - Bir telsiz operatörü CW modunda karşısındakinin alma becerisine göre gönderir.
