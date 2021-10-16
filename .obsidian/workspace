@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "514077e3d8215dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d4f790d4234c84e",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "img/Phonetique-Alphabet.jpg"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dd60ca800f03fa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb15b7d469d23be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e20114c4e075aff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13421f9239543c68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcbb7b00e4b08f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0e01eb2c486c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24886ab444d037fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Phonetique-Alphabet.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d4f790d4234c84e",
+  "lastOpenFiles": [
+    "img/Phonetique-Alphabet.jpg",
+    "README.md"
+  ]
+}

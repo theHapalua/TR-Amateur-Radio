@@ -112,9 +112,26 @@
 - İstenmeyen radyasyonların ayarlanmış antenlerden yayılmasını engellemek için filtre veya zayıflatıcı kullanmalıyız.
 - 435 MHz'de bir yagi anten, UHF TV antenine doğru çevrilmiştir. Bunun sonucunda RF giriş katında aşırı yükleme olur.
 - Enterferansa neden olan sinyaller TV anteni kablosunun ekranı veya ekran kartı ile TV'ye ulaşır. Bundan kaçınmak için TV anteninden olabildiğince uzak olmak gerekir.
-- 
+- Başka bir istasyonla konuşurken bir acil durum çağrısı duyarsanız konuşmayı bırakıp açil çağrıya cevap vermeniz gerekir.
+- CQ DX CQ DX CQ DX de TA3HPL TA3HPL TA3HPL uzak mesafe istasyonlara genel bir çağrıdır.
+- CQ contest CQ contest this is TA3HPL gibi bir çağrı  TA3HPL yarışma istasyonlarına genel bir çağrı yapıyor demektir.
+- İki istasyon arası test mesajlarının başına ve sonuna test kelimesi konulmalıdır.
+- Amatör telsizciler şifreli haberleşme yapamazlar.
+- Bİr alıcı-verici'deki susturma kontrolü hiçbir sinyal alınmadığında gürültüyü kesmek içindir.
+- Paket data gönderen amatör telsiz istasyonunda mikrofon kullanılmaz.
+- Amatör telsizciliğin 5 amacından 2'si Eğitimli telsiz operatörleri ile elektronik uzmanlarının sayısını artırmak ve uluslararası saygınlığı geliştirmek.
+- Amatör telsizler iş yürütmek için kullanılamazlar.
+- Pilotun onayı ile uçağın teçhizatını kullanmadan uçakta telsiz çalıştırabilirsiniz.
+- Gönderilecek frekansı seçerken o frekansın boş olup olmadığını anlamak için dinlemek gerekir.
+- Herhangi bir istasyon ile görüşme yapmak için aradığınızı "kendi çağrı işaretinizi takiben CQ" yaparak belli edebilirsiniz. Buna cevap verirken ise diğer istasyonun çağrı işaretini takiben kendi çağrı işaretinizi söylemeniz gerekir.
+- Bir frekansta iki istasyonun konuşmasını kesmek için konuşma arasında kendi çağrı işaretinizi söylemeniz gerekir.
 ## Ülkelerin Çağrı işaretleri
 - **DL (Deutschland)** : Almanya 
+- **VX** : Avustralya
+- **ON** : Belçika
+- **PY** : Brezilya
+- **LA** : Norveç
+- **EA** : İspanya
 ## Türkiye Çağrı İşareti Bölgeleri
 ![Türkiye Bölgeleri](img/TR-regions.jpeg)
 - TA2EX/3 : 2. bölgeden 3. bölgeye geçen bir amatör telsizci
@@ -153,6 +170,19 @@ Q Kodları hem soru hem cevap olarak kullanabilir.
 - **QRX** : Ne zaman tekrar arayacaksınız?
 - **QSK** : Beni duyabiliyor musunuz?
 - **QTH** : İstasyonunuzun tam olarak yeri neresidir?
+- **QSY** : Frekansı değiştireyim mi?
+- **QRL** : Meşgul müsün?
+- **QRT** : Göndermeyi durdurayım mı?
+- **QRZ** : Beni kim çağırıyor?
+- **QSV** : Bir dizi V harfi göndereyim mi?
+- **QRM** : Diğer istasyonlardan parazit alıyor musun?
+
+## En Çok Kullanılan 92 Kodları
+- 73 : Selamlar
+
+---
+
+## Mors Alfabesi
 
 ---
 
@@ -167,6 +197,14 @@ Q Kodları hem soru hem cevap olarak kullanabilir.
 - **CQ** : Bütün istasyonlara genel çağrı yapmak için kullanılır. Daima CW kullanılmalıdır.
 - **CL** : İstasyonumu kapatıyorum
 - **RTTY** : Radyo Teletype
+- **IF (Inter-Frequency)** : ara frekans 
+- **MSA** : Ulusal saat
+- **BCI** : Radyo Yayın Entertferansı
+- **LZ** : Bulgaristan
+- **CFM** : Tasdik etmek
+- **TX** : (Transmitter)Verici
+- **RX** : (Receiver)Alıcı
+- **PSK** : Faz Kaydırmalı Anahtarlama
 
 ---
 
@@ -174,13 +212,25 @@ Q Kodları hem soru hem cevap olarak kullanabilir.
 - **Pile up(yığılma)** : Çağrı yapan bir amatörün o frekanstaki diğer amatörler tarafından QSO yağmuruna tutulması.
 - **Broadcast** : Tek yönlü radyo yayınıdır.
 - **QSL Kartı** : Yapılan bir görüşme sonunda (QSO) görüşmeyi onaylamak için kullanılır.
+- **Uplink** : Yerden uyduya çıkış frekansı
+- **PEP** : Azami Çıkış Gücü
+- **BX** : Devam etmekte olan yayını kesmek için kullanılan kod.
+- **A1A** : Genlik Modülasyonlu, çift kenar band modüle edici alt taiıyıcı kullanmayan, sayısal bilgi ihtiva eden tek kanallı açık-kapalı Şeklinde anahtarlama sistemi ile çalışan telgraf yayını.
+- **J3E** : Genlik Modülasyonlu, tek kenar band, taşıyıcısı bastırılmış, analog bilgi ihtiva eden, tek kanallı telefon yayını.
 
 ---
 
 ## Frekans - Band Soruları
+!!!Haberleşme çeşitleri yazılacak!!!
 - IARU Region 1 düzenlemesine göre 144.010 mHz'de FM yayını yapılamaz.
 - 144.0 - 144.1 mHz'de sadece CW yayını yapılabilir.
 - 14250 kHz'de SSB haberleşmesi yapılabilir.
+- VHF bandında haberleşme direkt dalgalar ile yapılır.
+- Crossband, ayrı bandlarda almak ve göndermek demektir.
+- 1810 - 1850 kHz, sadece A sınıfı amatörler içindir. Çıkış gücü 9W olmalıdır.
+- 14 mHz bandını A sınıfı amatöler tek başına kullanabilir.
+- 10100 - 10150 kHz arası maximum çıkış gücü 75 Watt'tır.
+- 50 - 50.1 arasında yalnızca CW kullanılabilir.
 ## IARU Region-1 Bands
 ### LF (Low Frequency)
 - **2200 meters band** : 135.7–137.8 kHz
@@ -209,13 +259,86 @@ Q Kodları hem soru hem cevap olarak kullanabilir.
 - **23 santimetre** – 1240–1300 MHz (1240–1325 MHz in UK)
 - **13 santimetre** – 2300–2310 MHz (alt segment), 2390–2450 MHz (üst segment)
 
+### Frekans - Band Hesaplaması
+frekans(Hz) * dalga boyu(m) = ışık hızı (300000000m/s)
+145675000 Hz * dalga boyu = 300000000 m/s
+dalga boyu = 300000000/145675000
+dalga boyu = 2.05937875408
+145.675.000 frekansı 2 metre bandındadır.
+
 [for more](https://en.m.wikipedia.org/wiki/Amateur_radio_frequency_allocations)
 
 ---
+
+## Herhangi bir istasyon ile bağlantı kurulunca
+- Her bağlantı sonu çağrı işareti tekrarlanır.
+- Simplex bir kanal ise ve uzun süre görüşülecek ise başka kanala geçilir.
+- Cümleler kısa, net ve anlaşılır tutulur.
 
 ## Transmisyon Hattı Çeşitleri
 - Tek Telli Hatlar
 - İki Telli Paralel Hatlar
 - Koaksiyel Hatlar
+ 
+ ---
+ 
+ ## Türkçe Fonetik Alfabe
+ - A : Ankara
+ - B : Bursa
+ - C : Ceyhan
+ - Ç : Çankırı
+ - D : Denizli
+ - E : Edirne
+ - F : Fatsa
+ - G : Giresun
+ - H : Hopa
+ - I : Isaparta
+ - İ : İzmir
+ - J : Jale
+ - K : Kayseri
+ - L : Lüleburgaz
+ - M : Manisa
+ - N : Nazilli
+ - O : Ordu
+ - Ö : Ödemiş
+ - P : Pazar
+ - R : Rize
+ - S : Samsun
+ - Ş : Şarköy
+ - T : Trabzon
+ - U : Urfa
+ - Ü : Ünye
+ - V : Van
+ - Y : Yalova
+ - Z : Zonguldak
 
+---
+
+## Uluslararası Fonetik Alfabe
+- A : Alpha
+- B : Bravo
+- C : Charlie
+- D : Delta
+- E : Echo
+- F : Foxtrot
+- G : Golf
+- H : Hotel
+- I : India
+- J : Juliet
+- K : Kilo
+- L : Lima
+- M : Mike
+- N : November
+- O : Oscar
+- P : Papa
+- Q : Quebec
+- R : Romeo
+- S : Sierra
+- T : Tango
+- U : Uniform
+- V : Victor
+- W : Whiskey
+- X : X-Ray
+- Y : Yankee
+- Z : Zulu
 # son soru 50
